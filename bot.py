@@ -14,4 +14,4 @@ async def on_ready():
 async def hello(ctx):
     await ctx.send('Hello!')
 
-bot.run(' ADD THE BOT TOKEN HERE ASU XD')
+bot.run(' ADD THE BOT TOKEN HERE ASU')
